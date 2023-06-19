@@ -3,9 +3,8 @@ Hi, my name is bl13pl03p!
 <img src="https://media.giphy.com/media/hiJ9ypGI5tIKdwKoK2/giphy.gif" width="200" > 
 
 
-<img src="https://www.hackthebox.com/badge/image/195207">
-<img src="https://tryhackme-badges.s3.amazonaws.com/bl13pbl00p.png" alt="TryHackMe">
-
+<a href="https://app.hackthebox.com/profile/195207"><img src="https://www.hackthebox.com/badge/image/195207"></a>
+<a href="https://tryhackme.com/p/bl13pbl00p"><img src="https://tryhackme-badges.s3.amazonaws.com/bl13pbl00p.png"></a>
 
 
 ![https://img.shields.io/badge/1337n00b-Approved-blue](https://img.shields.io/badge/1337n00b-Approved-blue)
