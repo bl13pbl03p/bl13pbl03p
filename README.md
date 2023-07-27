@@ -11,7 +11,7 @@ Hi, my name is bl13pl03p!
 > Testing pens, hacking ethically and making difficult stuff a little less difficult is something I do
 - 🤖 Started as web developer, currently ethical hacker/pentester
 - 🥞 Love the smell of fresh **[IDORs](https://owasp.org/www-project-web-security-testing-guide/v42/4-Web_Application_Security_Testing/05-Authorization_Testing/04-Testing_for_Insecure_Direct_Object_References)** in the morning
-- 🐚 Mainly focused on bash scripting for automating tasks
+- 🐚 Mainly focused on bash scripting to automate tasks
 - 🔨 It's also fun to buy cheap IoT devices which results in cracking a md5 hash for 2 weeks trying to get root access
 - 🍚 Probably I ate rice today or yesterday
 - 🧑🏻‍🏫 Check out my blog (if I am ever going to publish it), [wattehack.com](https://wattehack.com)
